@@ -11,6 +11,7 @@ namespace ConsoleApplication2
         static void Main(string[] args)
         {
             int i = 0;
+            int mm = 34;
         }
     }
 }
